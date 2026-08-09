@@ -66,6 +66,8 @@ This project started off as a simple multi-page layout with a static navbar, ban
 ## Preview
 The figure below presents a screenshot of the website homepage, featuring the banner, navbar, and a glipse of article contents.
 
+Link to website: https://brightwaytocanada.ca/
+
 <img width="1906" height="1117" alt="Screenshot 2026-01-20 at 1 26 48 AM" src="https://github.com/user-attachments/assets/a3838a23-a72d-4a1a-876a-2beaefe3aea8" />
 
 ## Resources
